@@ -1,0 +1,14 @@
+---
+title: "2025-03-04"
+author: "Wangdali2049"
+date: "2025-03-04"
+output: pdf_document
+---
+## Aims
+
+1，分别创建"Transcriptome","Proteome"，“Metabolome”三个repo，用以后续代码track
+2，蛋白组和转录组的相关性分析代码整理上传，代码位置在“Transcriptome”项目的code中
+3，GSEA分析代码优化
+
+
+
